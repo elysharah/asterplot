@@ -1,4 +1,4 @@
-This aster plot is similar to a pie chart, except th
+This aster plot displays pie slices as lengths extending outward to the edge (0 at inner to 100 at outer). Widths of the pie slices represent the weight of each pie, which gets used to arrive at a weighted mean of the length scores in the center.
 
 ## Contributors
 
