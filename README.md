@@ -2,9 +2,9 @@ This aster plot displays pie slices as lengths extending outward to the edge (0 
 
 ## Contributors
 
-**Jim Regetz** developed the initial aster plot function in R (see [aster.R](https://github.com/OHI-Science/ohicore/blob/master/R/aster.R))
+**Jim Regetz** [@regetz](https://github.com/regetz) developed the initial aster plot function in R (see [aster-plot](https://github.com/regetz/aster-plot) on github)
 
-**Patrick Abercrombie** developed the initial prototype varying all 3 of the 4 arc elements using Mike Bostock's [Donut Chart](http://bl.ocks.org/mbostock/3887193):
+**Parker Abercrombie** [@parkerabercrombie](https://github.com/parkerabercrombie) developed the initial prototype varying all 3 of the 4 arc elements using Mike Bostock's [Donut Chart](http://bl.ocks.org/mbostock/3887193):
 
 - outerRadius
 - startAngle
@@ -12,4 +12,4 @@ This aster plot displays pie slices as lengths extending outward to the edge (0 
 
 For more details, see the [d3 Pie Layout](https://github.com/mbostock/d3/wiki/Pie-Layout#_pie) documentation.
 
-**Ben Best** adapted this prototype to data from the Ocean Health Index. For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
+**Ben Best** [@bbest](https://github.com/bbest) adapted this prototype to data from the Ocean Health Index. For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
