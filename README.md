@@ -13,6 +13,3 @@ This aster plot displays pie slices as lengths extending outward to the edge (0 
 For more details, see the [d3 Pie Layout](https://github.com/mbostock/d3/wiki/Pie-Layout#_pie) documentation.
 
 **Ben Best** adapted this prototype to data from the Ocean Health Index. For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
-
-
-http://bl.ocks.org/mbostock/3887193
