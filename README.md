@@ -10,6 +10,8 @@ This aster plot displays pie slices as lengths extending outward to the edge (0 
 - startAngle
 - endAngle
 
-This is the only example pie chart I've encountered on the web (after much searching) which varied individual arc segments by all 3 (usually just startAngle and endAngle with fixed innerRadius and outerRadius, even if done with multiple rows as with the very cool [Zoomable Sunburst](http://bl.ocks.org/mbostock/4348373)). For more details, see the [d3 Pie Layout](https://github.com/mbostock/d3/wiki/Pie-Layout#_pie) documentation.
+This is the only example pie chart I've encountered on the web (after much searching) which varied individual arc segments by all 3 (usually just startAngle and endAngle with fixed innerRadius and outerRadius, even if done with multiple rows as with the very cool [Zoomable Sunburst](http://bl.ocks.org/mbostock/4348373)). The outline of the pie chart is generated in addition to the outerRadius-varying segments. For more details, see the [d3 Pie Layout](https://github.com/mbostock/d3/wiki/Pie-Layout#_pie) documentation.
 
-**Ben Best** [@bbest](https://github.com/bbest) adapted this prototype to data from the Ocean Health Index. For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
+Tooltips on hover are rendered via the [d3-tip library](https://github.com/caged/d3-tip).
+
+**Ben Best** [@bbest](https://github.com/bbest) adapted Parker's prototype to CSV data from the [Ocean Health Index](http://ohi-science.org). For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
