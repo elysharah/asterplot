@@ -14,4 +14,6 @@ This is the only example pie chart I've encountered on the web (after much searc
 
 Tooltips on hover are rendered via the [d3-tip library](https://github.com/caged/d3-tip).
 
+This effort was made possible through the [NCEAS Open Science CodeFest](http://nceas.github.io/open-science-codefest/) Sep 2-4, 2014 in Santa Barbara, CA.
+
 **Ben Best** [@bbest](https://github.com/bbest) adapted Parker's prototype to CSV data from the [Ocean Health Index](http://ohi-science.org). For more details on the data prep, see [ohi-aster](github.com/bbest/ohi-aster) on github.
